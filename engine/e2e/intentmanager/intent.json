@@ -1,0 +1,10 @@
+{
+    "Exit": {
+        "type": "reply",
+        "restrict": "end"
+    },
+    "Welcome": {
+        "type": "route",
+        "state": "welcome"
+    }
+}

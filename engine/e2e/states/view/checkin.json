@@ -1,0 +1,12 @@
+{
+  "title": "Check-in",
+  "subtitle": "Work Arrangement",
+  "text" : "Please provide us your work arrangement.",
+  "menuText" : "Iv",
+  "options" : [
+    "Work from home",
+    "On-site",
+    "Restday",
+    "On leave"
+  ]
+}

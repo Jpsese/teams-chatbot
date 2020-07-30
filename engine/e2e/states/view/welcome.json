@@ -1,0 +1,11 @@
+{
+  "title": "Welcome!",
+  "subtitle": "How can I help you today?",
+  "text" : "Hi!",
+  "menuText" : "I'm MERALCO's daily work-health tracker tool.",
+  "options" : [
+    "Check-in",
+    "Health Check",
+    "Status"
+  ]
+}
